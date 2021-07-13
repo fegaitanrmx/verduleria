@@ -10,4 +10,4 @@ Javascript fue utilizado de forma cosmética, programandose un banner en la pág
 
 Se implementó en varias páginas la posibilidad de registrarse para un mailing mediante un formulario que ingresa la información via PHP a la base de datos en 000webhosting, una tabla llamada registro (se puede revisar la información subida a la tabla mediante una página (no accesible en el sitio, que imprime el contenido de la tabla, https://verduleriarodriguez.000webhostapp.com/usuarios.php).
 
-Lo mismo se puede ingresar tambien a una página llamada Portal Proveedores donde ingresando un mail y clave determinado se puede ingresar a una página donde se reproducen via PHP los contenidos de una tabla que contiene precios y cantidades de varios productos.
+Lo mismo se puede ingresar tambien a una página llamada Portal Proveedores donde ingresando un mail y clave determinado (rodolfo@gmail.com y 1234) se puede ingresar a una página donde se reproducen via PHP los contenidos de una tabla que contiene precios y cantidades de varios productos.
